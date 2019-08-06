@@ -1,0 +1,17 @@
+.greenOnBlack {
+  color: green;
+  background-color: black;
+}
+.header-stuff {
+  text-align: center;
+  color: limegreen;
+}
+.text-center {
+  text-align: center;
+}
+.text-right {
+  text-align: right;
+}
+.text-left {
+  text-align: left;
+}
